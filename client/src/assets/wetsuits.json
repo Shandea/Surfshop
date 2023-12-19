@@ -1,0 +1,82 @@
+[
+    {
+      "model": "AquaFlex 5000",
+      "brand": "Neptune Gear",
+      "type": "Fullsuit",
+      "description": "Premium fullsuit wetsuit for maximum warmth and flexibility.",
+      "price": "$349",
+      "image": ""
+    },
+    {
+      "model": "HydroPro X3",
+      "brand": "WaveMaster",
+      "type": "Springsuit",
+      "description": "Versatile springsuit offering excellent mobility and comfort in milder conditions.",
+      "price": "$189",
+      "image": ""
+    },
+    {
+      "model": "ThermoShield Elite",
+      "brand": "AquaArmor",
+      "type": "Hooded Fullsuit",
+      "description": "Hooded fullsuit with advanced thermal insulation for cold water adventures.",
+      "price": "$449",
+      "image": ""
+    },
+    {
+      "model": "SwiftDry Pro",
+      "brand": "SurfFlex",
+      "type": "Short John",
+      "description": "Short John wetsuit designed for unrestricted movement in warm water.",
+      "price": "$129",
+      "image": ""
+    },
+    {
+      "model": "FreeMotion X5",
+      "brand": "VentureWave",
+      "type": "Women's Fullsuit",
+      "description": "Women's fullsuit with anatomical design for a comfortable and flexible fit.",
+      "price": "$369",
+      "image": ""
+    },
+    {
+      "model": "UltraTech Voyager",
+      "brand": "SeaTech",
+      "type": "Long John",
+      "description": "Long John wetsuit for extended sessions, offering freedom of movement.",
+      "price": "$159",
+      "image": ""
+    },
+    {
+      "model": "NeoFlex Navigator",
+      "brand": "TidalFit",
+      "type": "Chest Zip",
+      "description": "Chest zip wetsuit with NeoFlex technology for enhanced flexibility and easy entry.",
+      "price": "$299",
+      "image": ""
+    },
+    {
+      "model": "SwiftStream 300",
+      "brand": "CurrentSurge",
+      "type": "Shorty",
+      "description": "Shorty wetsuit providing coverage and flexibility for tropical surf conditions.",
+      "price": "$99",
+      "image": ""
+    },
+    {
+      "model": "TechSkin Pro X",
+      "brand": "DeepBlue",
+      "type": "Drysuit",
+      "description": "Drysuit with TechSkin technology for complete dryness in cold water environments.",
+      "price": "$599",
+      "image": ""
+    },
+    {
+      "model": "FlexFit Ultra",
+      "brand": "DynamicWave",
+      "type": "Hooded Springsuit",
+      "description": "Hooded springsuit with FlexFit technology for unrestricted movement and warmth.",
+      "price": "$249",
+      "image": "" 
+    }
+  ]
