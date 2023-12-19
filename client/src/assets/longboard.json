@@ -1,0 +1,83 @@
+
+[
+{
+    "model": "Classic Cruiser 2000",
+    "brand": "WaveRider",
+    "type": "Longboard",
+    "description": "A timeless design for smooth rides and classic styling.",
+    "price": "$799",
+    "image": ""
+  },
+  {
+    "model": "Ocean Explorer X",
+    "brand": "AquaGlide",
+    "type": "Longboard",
+    "description": "Versatile longboard designed for exploration and fun in various conditions.",
+    "price": "$699",
+    "image": ""
+  },
+  {
+    "model": "Performance Prodigy",
+    "brand": "Coastal Craft",
+    "type": "Performance Longboard",
+    "description": "High-performance longboard offering sleek design and exceptional maneuverability.",
+    "price": "$999",
+    "image": ""
+  },
+  {
+    "model": "Golden Glide Deluxe",
+    "brand": "Pacific Crest",
+    "type": "Classic Longboard",
+    "description": "Classic longboard with a touch of luxury, perfect for traditional surfers.",
+    "price": "$899",
+    "image": ""
+  },
+  {
+    "model": "XL Cruiser 3000",
+    "brand": "Epic Rides",
+    "type": "Longboard",
+    "description": "Extra-long board for stability and stylish turns, ideal for cruising.",
+    "price": "$949",
+    "image": ""
+  },
+  {
+    "model": "EcoWave Pioneer",
+    "brand": "SurfTech Innovations",
+    "type": "Environmentally Friendly",
+    "description": "Eco-friendly longboard made from sustainable and recycled materials.",
+    "price": "$799",
+    "image": ""
+  },
+  {
+    "model": "NoseMaster Supreme",
+    "brand": "Harbor Haven",
+    "type": "Noserider",
+    "description": "Tailored for nose-riding enthusiasts, offering exceptional tip control and style.",
+    "price": "$1,099",
+    "image": ""
+  },
+  {
+    "model": "Gentle Giant Deluxe",
+    "brand": "SmoothSail",
+    "type": "Classic Longboard",
+    "description": "Gentle and stable longboard designed for riders of all skill levels.",
+    "price": "$849",
+    "image": ""
+  },
+  {
+    "model": "Soul Surfer Elite",
+    "brand": "Ocean Odyssey",
+    "type": "Performance Longboard",
+    "description": "A soulful performance board, fostering a deep connection with the waves.",
+    "price": "$949",
+    "image": ""
+  },
+  {
+    "model": "Artisanal Masterpiece",
+    "brand": "Golden Coast",
+    "type": "Artisanal Longboard",
+    "description": "A handcrafted masterpiece, combining artistry with exceptional longboarding performance.",
+    "price": "$1,199",
+    "image": ""
+  }
+]
