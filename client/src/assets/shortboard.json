@@ -4,80 +4,70 @@
       "brand": "Velocity",
       "type": "Shortboard",
       "description": "High-speed shortboard designed for advanced maneuvers and radical turns.",
-      "price": "$899",
-      "image": ""
+      "price": "$899"
     },
     {
       "model": "Blaze Prodigy",
       "brand": "FireRide",
       "type": "Shortboard",
       "description": "Versatile shortboard offering exceptional performance in various wave conditions.",
-      "price": "$749",
-      "image": ""
+      "price": "$749"
     },
     {
       "model": "Stealth Surge",
       "brand": "AeroWave",
       "type": "Performance Shortboard",
       "description": "A high-performance shortboard designed for experienced surfers seeking speed and precision.",
-      "price": "$1,049",
-      "image": ""
+      "price": "$1,049"
     },
     {
       "model": "Thunderstrike Elite",
       "brand": "StrikeSurf",
       "type": "Shortboard",
       "description": "Powerful shortboard built for big waves and aggressive surfing styles.",
-      "price": "$999",
-      "image": ""
+      "price": "$999"
     },
     {
       "model": "Flash Fury X3",
       "brand": "XtremeRide",
       "type": "Shortboard",
       "description": "Extreme shortboard for advanced riders pushing the limits of aerial maneuvers.",
-      "price": "$1,199",
-      "image": ""
+      "price": "$1,199"
     },
     {
       "model": "Carbon Charger",
       "brand": "SurfTech Pro",
       "type": "Performance Shortboard",
       "description": "Lightweight and responsive shortboard for dynamic and precise wave riding.",
-      "price": "$1,099",
-      "image": ""
+      "price": "$1,099"
     },
     {
       "model": "Rapid Raptor",
       "brand": "Velocity",
       "type": "Shortboard",
       "description": "A shortboard designed for rapid acceleration and quick, tight turns.",
-      "price": "$849",
-      "image": ""
+      "price": "$849"
     },
     {
       "model": "Fusion Fury X2",
       "brand": "XtremeRide",
       "type": "Performance Shortboard",
       "description": "A fusion of speed and control, perfect for intermediate to advanced surfers.",
-      "price": "$1,149",
-      "image": ""
+      "price": "$1,149"
     },
     {
       "model": "SwiftStrike Pro",
       "brand": "FireRide",
       "type": "Shortboard",
       "description": "Swift and responsive shortboard delivering exceptional speed and agility.",
-      "price": "$899",
-      "image": ""
+      "price": "$899"
     },
     {
       "model": "Proton Precision",
       "brand": "StrikeSurf",
       "type": "Performance Shortboard",
       "description": "Precision shortboard designed for competitive surfers demanding top-notch performance.",
-      "price": "$1,199",
-      "image": ""
+      "price": "$1,199"
     }
   ]
   
