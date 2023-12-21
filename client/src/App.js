@@ -1,8 +1,25 @@
+import AccessoryCards from './components/Accessory Cards/AccessoryCards'
+import LongboardCards from './components/Longboard Cards/LongboardCards'
+import ShortboardCards from './components/Shortboards Cards/ShortboardCards';
+import WetsuitCards from './components/Wetsuit Cards/WetsuitCards';
 
 
 function App() {
   return (
-    <h1>Surf's Up</h1>
+    <>
+    
+    
+
+     {/* <AccessoryCards/> */}
+     {/* <LongboardCards/> */}
+     {/* <ShortboardCards/> */}
+     <WetsuitCards/>
+
+
+
+
+
+    </>
   );
 }
 
