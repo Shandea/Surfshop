@@ -1,72 +1,84 @@
+
+
 [
     {
       "model": "WaveMaster Pro Leash",
       "brand": "WaveMaster",
       "type": "Surf Leash",
       "description": "Premium surf leash with reinforced cord for maximum strength and durability.",
-      "price": "$29.99"
+      "price": "$29.99",
+      "image": "leash.jpg"
     },
     {
       "model": "AquaGrip Traction Pad",
       "brand": "AquaGlide",
       "type": "Deck Pad",
       "description": "High-performance deck pad with AquaGrip technology for superior traction.",
-      "price": "$39.99"
+      "price": "$39.99",
+      "image": "tractionpad.jpg"
     },
     {
       "model": "VentureWave Fin Set",
       "brand": "VentureWave",
       "type": "Fins",
       "description": "Versatile fin set for optimal performance and maneuverability in various conditions.",
-      "price": "$49.99"
+      "price": "$49.99",
+      "image": "fins.jpg"
     },
     {
       "model": "ProRide Board Bag",
       "brand": "ProRide",
       "type": "Board Bag",
       "description": "Durable board bag with padded interior and multiple pockets for surfboard protection.",
-      "price": "$69.99"
+      "price": "$69.99",
+      "image": "bag.jpg"
     },
     {
       "model": "CurrentSurge Roof Rack",
       "brand": "CurrentSurge",
       "type": "Roof Rack",
       "description": "Adjustable roof rack designed for securely transporting surfboards on your vehicle.",
-      "price": "$129.99"
+      "price": "$129.99",
+      "image": "roofrack.webp"
     },
     {
       "model": "DeepBlue Surf Wax",
       "brand": "DeepBlue",
       "type": "Surf Wax",
       "description": "High-quality surf wax for enhanced traction on your surfboard in various water temperatures.",
-      "price": "$7.99"
+      "price": "$7.99",
+      "image": "wax.jpg"
     },
     {
       "model": "TidalFit Fin Key",
       "brand": "TidalFit",
       "type": "Tool",
       "description": "Handy fin key tool for quick and easy adjustments to your surfboard's fins.",
-      "price": "$4.99"
+      "price": "$4.99",
+      "image": "key.jpg"
     },
     {
       "model": "DynamicWave Poncho Towel",
       "brand": "DynamicWave",
       "type": "Poncho Towel",
       "description": "Absorbent and comfortable poncho towel for changing and staying warm at the beach.",
-      "price": "$34.99"
+      "price": "$34.99",
+      "image": "poncho.webp"
     },
     {
       "model": "SeaTech Surf Hat",
       "brand": "SeaTech",
       "type": "Headwear",
       "description": "Durable and stylish surf hat for sun protection during long sessions in the water.",
-      "price": "$24.99"
+      "price": "$24.99",
+      "image": "hat.jpeg"
     },
     {
       "model": "TechGuard Surf Lock",
       "brand": "TechGuard",
       "type": "Security",
       "description": "Secure your surfboard with the TechGuard surf lock featuring a durable combination lock.",
-      "price": "$19.99"
+      "price": "$19.99",
+      "image": "surflock.jpg"
     }
   ]
