@@ -1,0 +1,83 @@
+
+/* accessoryWholePage holds all the content on the page */
+
+.accessoryWholePage{
+   
+    width:70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+    margin:auto
+   
+    
+}
+
+.welcomeTitle{
+    color: #212c5f;
+}
+
+/* accessorySection holds "adoption data " title and adoption cards */
+
+.accessorySection{
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+
+  
+}
+
+.accessoryRow{
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    gap:20px;
+    width:100%;
+}
+
+.accessoryCard{
+    width:350px;
+    height:350px;  
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #d66f54;
+    color: #212c5f;
+    font-weight: 700;
+    box-shadow: .25rem .25rem .4rem rgba(0, 0, 0, 0.7);
+    border: 1px solid black;
+    border-radius: 3px;
+   word-wrap: break-word;
+   flex-basis: calc(33.333%-20px);
+   
+ 
+   
+}
+
+.imgSize{
+    width:300px;
+    height:250px;
+    border: 2px solid black;
+}
+.shopbtn{
+    cursor:pointer
+}
+
+
+
+@media screen and (max-width:768px) {
+
+    .accessoryCard{
+
+        flex-basis: calc(50%-20px);
+    }
+
+   
+}
