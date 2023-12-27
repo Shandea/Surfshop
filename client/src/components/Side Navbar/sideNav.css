@@ -1,9 +1,10 @@
 .navContainer{
-border:2px solid black;
+/* border:2px solid white; */
 display:flex;
 flex-direction: column;
-height:28.8rem;
-width:15%;
+/* height:29.3rem; */
+height:89vmin;
+width:20vmin;
 position:fixed;
 bottom:0;
 left:0;
