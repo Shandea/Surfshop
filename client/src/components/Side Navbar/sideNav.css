@@ -1,0 +1,33 @@
+.navContainer{
+border:2px solid black;
+display:flex;
+flex-direction: column;
+height:28.8rem;
+width:15%;
+position:fixed;
+bottom:0;
+left:0;
+font-size: 2.8vmin;
+align-items: center;
+justify-content: space-evenly;
+background-color: #1e1e1e;
+
+}
+
+.navTitle{
+    color: #ffbd59;
+    font-weight: 700;
+    border-bottom: 2px solid  #ffbd59;
+}
+
+.navLink{
+    color: #ffbd59;
+    font-size: 2.5vmin;
+}
+
+.navLink:hover{
+    color:white;
+    cursor:pointer;
+    
+
+}
