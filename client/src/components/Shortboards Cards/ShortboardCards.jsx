@@ -1,5 +1,5 @@
     import './ShortboardCard.css'
-    import shortboard from '../../assets/shortboard.json'
+    import shortboard from './shortboard.json'
     import React, { useState, useEffect } from 'react';
 
 
@@ -17,7 +17,7 @@
               <div className='accessoryRow'>
                 {product.map((data, index) => (
                   <div className='accessoryCard' key={index}>
-                     <img className='imgSize' src={require(`../../assets/shortboardPics/${data.image}`)} alt="Avatar"/>
+                     <img className='imgSize' src={require(`../../../public/assets/accessoriesPics/${data.image}`)} alt="Avatar"/>
                       <p>{data.model}</p>
                       <button className='shopbtn'>Shop</button>
                  

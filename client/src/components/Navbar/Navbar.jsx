@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import './navbar.css'
-import logo from '../../assets/SurfsUpTranparent.png';
+import logo from '../../assets/SurfsUpTranparent.png'
 import cartIcon from '../../assets/cartYellow.png';
 
 

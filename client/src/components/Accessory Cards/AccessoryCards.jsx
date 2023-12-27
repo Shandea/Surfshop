@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './AccessoryCards.css';
-import accessory from'../../assets/accessories.json'
+import accessory from'./accessories.json'
 
 
 const AccessoryCards = () => {
@@ -17,7 +17,7 @@ const AccessoryCards = () => {
           <div className='accessoryRow'>
             {product.map((data, index) => (
               <div className='accessoryCard' key={index}>
-                 <img className='imgSize' src={require(`../../assets/accessoriesPics/${data.image}`)} alt="Avatar"/>
+                 <img className='imgSize' src={require(`../../`)} alt="Avatar"/>
                   <p>{data.model}</p>
                   <button className='shopbtn'>Shop</button>
              

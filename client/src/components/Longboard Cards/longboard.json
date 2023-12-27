@@ -5,7 +5,7 @@
     "brand": "WaveRider",
     "type": "Longboard",
     "description": "A timeless design for smooth rides and classic styling.",
-    "price": "$799",
+    "price": "799.00",
     "image":"L1.JPG"
   },
   {
@@ -13,7 +13,7 @@
     "brand": "AquaGlide",
     "type": "Longboard",
     "description": "Versatile longboard designed for exploration and fun in various conditions.",
-    "price": "$699",
+    "price": "699.00",
     "image":"L2.jpg"
   },
   {
@@ -21,7 +21,7 @@
     "brand": "Coastal Craft",
     "type": "Performance Longboard",
     "description": "High-performance longboard offering sleek design and exceptional maneuverability.",
-    "price": "$999",
+    "price": "999.00",
     "image":"L3.jpg"
   },
   {
@@ -29,7 +29,7 @@
     "brand": "Pacific Crest",
     "type": "Classic Longboard",
     "description": "Classic longboard with a touch of luxury, perfect for traditional surfers.",
-    "price": "$899",
+    "price": "899.00",
     "image":"L4.jpg"
   },
   {
@@ -37,7 +37,7 @@
     "brand": "Epic Rides",
     "type": "Longboard",
     "description": "Extra-long board for stability and stylish turns, ideal for cruising.",
-    "price": "$949",
+    "price": "949.00",
     "image":"L5.jpg"
   },
   {
@@ -45,7 +45,7 @@
     "brand": "SurfTech Innovations",
     "type": "Environmentally Friendly",
     "description": "Eco-friendly longboard made from sustainable and recycled materials.",
-    "price": "$799",
+    "price": "799.00",
     "image":"L6.jpg"
   },
   {
@@ -53,7 +53,7 @@
     "brand": "Harbor Haven",
     "type": "Noserider",
     "description": "Tailored for nose-riding enthusiasts, offering exceptional tip control and style.",
-    "price": "$1,099",
+    "price": "1,099",
     "image":"L7.jpg"
   },
   {
@@ -61,7 +61,7 @@
     "brand": "SmoothSail",
     "type": "Classic Longboard",
     "description": "Gentle and stable longboard designed for riders of all skill levels.",
-    "price": "$849",
+    "price": "849.00",
     "image":"L8.jpg"
   },
   {
@@ -69,7 +69,7 @@
     "brand": "Ocean Odyssey",
     "type": "Performance Longboard",
     "description": "A soulful performance board, fostering a deep connection with the waves.",
-    "price": "$949",
+    "price": "949.00",
     "image":"L9.jpg"
   },
   {
@@ -77,7 +77,7 @@
     "brand": "Golden Coast",
     "type": "Artisanal Longboard",
     "description": "A handcrafted masterpiece, combining artistry with exceptional longboarding performance.",
-    "price": "$1,199",
+    "price": "1,199.00",
     "image":"L10.jpg"
   }
 ]

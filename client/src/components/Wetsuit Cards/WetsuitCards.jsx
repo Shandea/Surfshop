@@ -1,5 +1,5 @@
 import "./WetsuitCards.css"
-import wetsuit from "../../assets/wetsuits.json"
+import wetsuit from "./wetsuits.json"
 import React, { useState, useEffect } from 'react';
 
 

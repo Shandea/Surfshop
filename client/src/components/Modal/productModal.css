@@ -1,0 +1,25 @@
+/* ProductModal.css */
+.ReactModal__Overlay {
+    opacity: 0;
+    transition: opacity 200ms ease-in-out;
+    
+}
+
+.ReactModal__Overlay--after-open {
+    opacity: 1;
+}
+
+.ReactModal__Overlay--before-close {
+    opacity: 0;
+}
+
+.ReactModal__Content {
+    /* transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%; */
+    /* position: absolute; */
+    padding: 20px;
+    background-color: #e5e5e5;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
