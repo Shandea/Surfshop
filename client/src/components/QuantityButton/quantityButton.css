@@ -1,0 +1,20 @@
+.container-button {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+}
+
+.q-button {
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.span {
+    margin: 0 10px;
+    font-size: 1.2em;
+}
+
+.addToCart {
+    padding: 5px 10px;
+}
