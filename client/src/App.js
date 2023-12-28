@@ -72,7 +72,12 @@ function App() {
 
 
       {/* <AccessoryCards/> */}
-      {/* <LongboardCards/> */}
+      <LongboardCards
+        modalIsOpen={modalIsOpen}
+        setModalIsOpen={setModalIsOpen}
+        selectedProduct={selectedProduct}
+        setSelectedProduct={setSelectedProduct}
+      />
       {/* <ShortboardCards/> */}
       {/* <WetsuitCards/> */}
 

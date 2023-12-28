@@ -6,7 +6,7 @@ import longboardData from './longboard.json'
 const LongboardCards = ({ modalIsOpen, setModalIsOpen, selectedProduct, setSelectedProduct }) => {
 
   const [products, setProducts] = useState(longboardData)
-  const [imgSrc, setSrc] = useState('')
+
 
   const openModal = (product) => {
     setSelectedProduct(product)
@@ -27,7 +27,7 @@ const LongboardCards = ({ modalIsOpen, setModalIsOpen, selectedProduct, setSelec
         <div className='accessoryRow'>
           {products.map((data, index) => (
             <div className='accessoryCard' key={index}>
-              <img className='imgSize' src={require(`../../../public/assets/longboardPics/${data.image}`)} alt="Avatar" />
+              <img className='imgSize' src={require(`../../assets/longboardPics/${data.image}`)} alt="Avatar" />
               <p>{data.model}</p>
               <button className='shopbtn' onClick={() => openModal(data)}>Shop</button>
 
