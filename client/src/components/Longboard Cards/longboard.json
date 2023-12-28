@@ -5,79 +5,79 @@
     "brand": "WaveRider",
     "type": "Longboard",
     "description": "A timeless design for smooth rides and classic styling.",
-    "price": "$799",
-    "image":"L1.JPG"
+    "price": "799.00",
+    "image":["L1.JPG"]
   },
   {
     "model": "Ocean Explorer X",
     "brand": "AquaGlide",
     "type": "Longboard",
     "description": "Versatile longboard designed for exploration and fun in various conditions.",
-    "price": "$699",
-    "image":"L2.jpg"
+    "price": "699.00",
+    "image":["L2.jpg"]
   },
   {
     "model": "Performance Prodigy",
     "brand": "Coastal Craft",
     "type": "Performance Longboard",
     "description": "High-performance longboard offering sleek design and exceptional maneuverability.",
-    "price": "$999",
-    "image":"L3.jpg"
+    "price": "999.00",
+    "image":["L3.jpg"]
   },
   {
     "model": "Golden Glide Deluxe",
     "brand": "Pacific Crest",
     "type": "Classic Longboard",
     "description": "Classic longboard with a touch of luxury, perfect for traditional surfers.",
-    "price": "$899",
-    "image":"L4.jpg"
+    "price": "899.00",
+    "image":["L4.jpg"]
   },
   {
     "model": "XL Cruiser 3000",
     "brand": "Epic Rides",
     "type": "Longboard",
     "description": "Extra-long board for stability and stylish turns, ideal for cruising.",
-    "price": "$949",
-    "image":"L5.jpg"
+    "price": "949.00",
+    "image":["L5.jpg"]
   },
   {
     "model": "EcoWave Pioneer",
     "brand": "SurfTech Innovations",
     "type": "Environmentally Friendly",
     "description": "Eco-friendly longboard made from sustainable and recycled materials.",
-    "price": "$799",
-    "image":"L6.jpg"
+    "price": "799.00",
+    "image":["L6.jpg"]
   },
   {
     "model": "NoseMaster Supreme",
     "brand": "Harbor Haven",
     "type": "Noserider",
     "description": "Tailored for nose-riding enthusiasts, offering exceptional tip control and style.",
-    "price": "$1,099",
-    "image":"L7.jpg"
+    "price": "1,099",
+    "image":["L7.jpg"]
   },
   {
     "model": "Gentle Giant Deluxe",
     "brand": "SmoothSail",
     "type": "Classic Longboard",
     "description": "Gentle and stable longboard designed for riders of all skill levels.",
-    "price": "$849",
-    "image":"L8.jpg"
+    "price": "849.00",
+    "image":["L8.jpg"]
   },
   {
     "model": "Soul Surfer Elite",
     "brand": "Ocean Odyssey",
     "type": "Performance Longboard",
     "description": "A soulful performance board, fostering a deep connection with the waves.",
-    "price": "$949",
-    "image":"L9.jpg"
+    "price": "949.00",
+    "image":["L9.jpg"]
   },
   {
     "model": "Artisanal Masterpiece",
     "brand": "Golden Coast",
     "type": "Artisanal Longboard",
     "description": "A handcrafted masterpiece, combining artistry with exceptional longboarding performance.",
-    "price": "$1,199",
-    "image":"L10.jpg"
+    "price": "1,199.00",
+    "image":["L10.jpg"]
   }
 ]

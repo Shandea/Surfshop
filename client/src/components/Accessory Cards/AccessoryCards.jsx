@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import './AccessoryCards.css';
-import accessory from'../../assets/accessories.json'
+import accessory from'./accessories.json'
 
 
 const AccessoryCards = () => {

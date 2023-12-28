@@ -1,38 +1,56 @@
-import React, { useState, useEffect } from 'react';
-
+import React, { useState } from 'react';
 import './LongboardCards.css'
+import ProductModal from '../Modal/ProductModal';
+import longboardData from './longboard.json'
 
-import longboard from '../../assets/longboard.json'
+const LongboardCards = ({ modalIsOpen, setModalIsOpen, selectedProduct, setSelectedProduct }) => {
+
+  const [products, setProducts] = useState(longboardData)
 
 
-const LongboardCards = () => {
-    const [product, setProduct] = useState(longboard);
-  
-  
-    
-  
-    return (
-      <div className="accessoryWholePage">
-        <h1 className='welcomeTitle'>Longboards</h1>
-    
-        <div className='accessorySection'>
-          <div className='accessoryRow'>
-            {product.map((data, index) => (
-              <div className='accessoryCard' key={index}>
-                 <img className='imgSize' src={require(`../../assets/longboardPics/${data.image}`)} alt="Avatar"/>
-                  <p>{data.model}</p>
-                  <button className='shopbtn'>Shop</button>
-             
-                  
-                  
-  
-              </div>
-            ))}
-          </div>
+  const openModal = (product) => {
+    setSelectedProduct(product)
+    setModalIsOpen(true)
+  }
+
+  const closeModal = () => {
+    setSelectedProduct(null)
+    setModalIsOpen(false)
+  }
+
+
+  return (
+    <div className="accessoryWholePage">
+      <h1 className='welcomeTitle'>Longboards</h1>
+
+      <div className='accessorySection'>
+        <div className='accessoryRow'>
+          {products.map((data, index) => (
+            <div className='accessoryCard' key={index}>
+              <img className='imgSize' src={require(`../../assets/longboardPics/${data.image}`)} alt="Avatar" />
+              <p>{data.model}</p>
+              <button className='shopbtn' onClick={() => openModal(data)}>Shop</button>
+
+
+
+
+            </div>
+          ))}
         </div>
-  
       </div>
-    );
-  };
-  
-  export default LongboardCards;
+
+      {selectedProduct && (
+        <ProductModal
+          isOpen={modalIsOpen}
+          closeModal={closeModal}
+          product={selectedProduct}
+        />
+      )}
+
+    </div>
+
+
+  );
+};
+
+export default LongboardCards;
