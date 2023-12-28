@@ -7,6 +7,7 @@ import LongboardCards from './components/Longboard Cards/LongboardCards'
 import ShortboardCards from './components/Shortboards Cards/ShortboardCards';
 import WetsuitCards from './components/Wetsuit Cards/WetsuitCards';
 import './global.css'
+import SideNav from "./components/Side Navbar/sideNav";
 
 function App() {
 
@@ -71,6 +72,7 @@ function App() {
       </Routes>
 
 
+
       {/* <AccessoryCards/> */}
       <LongboardCards
         modalIsOpen={modalIsOpen}
@@ -80,6 +82,7 @@ function App() {
       />
       {/* <ShortboardCards/> */}
       {/* <WetsuitCards/> */}
+
 
 
 
